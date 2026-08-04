@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "header_title",
+      "value": "MESSAGE EDITOR"
+    },
+    {
+      "name": "header_subtitle",
+      "value": "Wearable Quick-Reply Toolkit"
+    },
+    {
+      "name": "editor_tip",
+      "value": "💡 Click box to clear text | Click menu for options"
+    },
+    {
+      "name": "smart_replies_header",
+      "value": "Smart Replies"
+    },
+    {
+      "name": "analytics_header",
+      "value": "Analytics Monitor"
+    },
+    {
+      "name": "menu_text_utilities",
+      "value": "Text Utilities"
+    },
+    {
+      "name": "menu_quick_actions",
+      "value": "Quick Actions"
+    },
+    {
+      "name": "menu_quick_formatting",
+      "value": "Quick Formatting"
+    },
+    {
+      "name": "menu_advanced_options",
+      "value": "Options"
+    },
+    {
+      "name": "action_cut_text",
+      "value": "Cut Text"
+    },
+    {
+      "name": "action_copy_text",
+      "value": "Copy Text"
+    },
+    {
+      "name": "action_paste_text",
+      "value": "Paste Text"
+    },
+    {
+      "name": "action_uppercase_all",
+      "value": "Uppercase All"
+    },
+    {
+      "name": "action_lowercase_all",
+      "value": "Lowercase All"
+    },
+    {
+      "name": "action_clear_editor",
+      "value": "Clear Editor"
+    },
+    {
+      "name": "action_add_emoji",
+      "value": "Add Emoji"
+    },
+    {
+      "name": "action_selection_menu",
+      "value": "Selection Menu"
+    },
+    {
+      "name": "action_reset_analytics",
+      "value": "Reset Analytics"
+    }
+  ]
+}
